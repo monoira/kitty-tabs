@@ -19,11 +19,12 @@ Code for tabs is at [tabs.conf](./tabs.conf)
 
 ## keybindings
 
-| Keybinding               | Feature    |
-| ------------------------ | ---------- |
-| `ctrl + t`               | New Tab    |
-| `ctrl + w`               | Close Tab  |
-| `ctrl + shift + alt + t` | Rename Tab |
+| Keybinding               | Feature              |
+| ------------------------ | -------------------- |
+| `ctrl + t`               | New Tab              |
+| `ctrl + w`               | Close Tab            |
+| `alt + {number 1 to 9}`  | Move To Tab {number} |
+| `ctrl + shift + alt + t` | Rename Tab           |
 
 ## limitations and dependencies
 
