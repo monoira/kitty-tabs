@@ -5,13 +5,18 @@
 - [kitty-tabs](#kitty-tabs)
   - [showcase](#showcase)
   - [keybindings](#keybindings)
-  - [limitations and dependencies](#limitations-and-dependencies)
+  - [limitations](#limitations)
+  - [dependencies](#dependencies)
   <!--toc:end-->
 
 _Kitty_ terminal config.  
 Replace _tmux_ with _kitty_'s native tabs with same keybindings as _Firefox_.  
-Config uses [Catppuccin](https://catppuccin.com) theme.  
-Code for tabs is at [tabs.conf](./tabs.conf)
+Code for tabs is at [tabs.conf](./tabs.conf).
+
+Config uses [Catppuccin](https://catppuccin.com) theme hex colors by default
+both in [theme.conf](./theme.conf) and [tabs.conf](./tabs.conf).  
+Hex colors in [tabs.conf](./tabs.conf) look like this: `_FFFFFF`,
+instead of like this `#FFFFFF`
 
 ## showcase
 
@@ -26,8 +31,11 @@ Code for tabs is at [tabs.conf](./tabs.conf)
 | `alt + {number 1 to 9}`  | Move To Tab {number} |
 | `ctrl + shift + alt + t` | Rename Tab           |
 
-## limitations and dependencies
+## limitations
 
 - No sessions.
-- DEPENDENCIES: any [Nerd Font](https://github.com/ryanoasis/nerd-fonts).
+
+## dependencies
+
+- any [Nerd Font](https://github.com/ryanoasis/nerd-fonts).
   I recommend **Hack Nerd Font**, But any Nerd Font will do the job.
