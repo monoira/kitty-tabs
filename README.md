@@ -10,7 +10,7 @@
   <!--toc:end-->
 
 _Kitty_ terminal config.  
-Replace _tmux_ with _kitty_'s native tabs with same keybindings as _Firefox_.  
+Replace _tmux's_ tab functionality with _kitty_'s native tabs with same keybindings as _Firefox_.  
 Code for tabs is at [tabs.conf](./tabs.conf).
 
 Config uses [Catppuccin](https://catppuccin.com) theme hex colors by default
