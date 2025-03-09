@@ -30,6 +30,8 @@ instead of like this `#FFFFFF`
 | `ctrl + w`               | Close Tab            |
 | `alt + {number 1 to 9}`  | Move To Tab {number} |
 | `ctrl + shift + alt + t` | Rename Tab           |
+| `ctrl + shift + ,`       | Move Tab Backward    |
+| `ctrl + shift + .`       | Move Tab Forward     |
 
 ## limitations
 
