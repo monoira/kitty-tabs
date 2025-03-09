@@ -24,14 +24,14 @@ instead of like this `#FFFFFF`
 
 ## keybindings
 
-| Keybinding               | Feature              |
-| ------------------------ | -------------------- |
-| `ctrl + t`               | New Tab              |
-| `ctrl + w`               | Close Tab            |
-| `alt + {number 1 to 9}`  | Move To Tab {number} |
-| `ctrl + shift + alt + t` | Rename Tab           |
-| `ctrl + shift + ,`       | Move Tab Backward    |
-| `ctrl + shift + .`       | Move Tab Forward     |
+| Keybinding                 | Feature              |
+| -------------------------- | -------------------- |
+| `ctrl + t`                 | New Tab              |
+| `ctrl + w`                 | Close Tab            |
+| `alt + {number 1 to 9}`    | Move To Tab {number} |
+| `ctrl + shift + alt + t`   | Rename Tab           |
+| `ctrl + shift + page_up`   | Move Tab Backward    |
+| `ctrl + shift + page_down` | Move Tab Forward     |
 
 ## limitations
 
