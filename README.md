@@ -41,3 +41,15 @@ instead of like this `#FFFFFF`
 
 - any [Nerd Font](https://github.com/ryanoasis/nerd-fonts).
   I recommend **Hack Nerd Font**, But any Nerd Font will do the job.
+
+## DONATE
+
+I've been creating OSS / GNU/Linux / nvim / web
+related software for some time now.  
+If you used, forked or took code from one of my projects and you
+would like to support me 👍, you can donate here:
+
+| type                | address                                    |
+| ------------------- | ------------------------------------------ |
+| Bitcoin (SegWit)    | bc1ql8sp9shx4svzlwv0ckzv8s7pphw5upvmt8m2m7 |
+| Ethereum (Ethereum) | 0xf2FCB0Af39DF7A608b76297e45181aF23fEB939F |
