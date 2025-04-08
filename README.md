@@ -9,6 +9,13 @@
   - [dependencies](#dependencies)
   <!--toc:end-->
 
+> 🧪 **Quick Install**  
+> Paste this into your terminal to install:
+>
+> ```bash
+> bash <(curl -L https://raw.githubusercontent.com/monoira/kitty-tabs/refs/heads/main/setup.sh)
+> ```
+
 _Kitty_ terminal config.  
 Replace _tmux's_ tab functionality with _kitty_'s native tabs with same keybindings as _Firefox_.  
 Code for tabs is at [tabs.conf](./tabs.conf).
