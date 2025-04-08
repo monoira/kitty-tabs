@@ -9,8 +9,8 @@
   - [dependencies](#dependencies)
   <!--toc:end-->
 
-> 🧪 **Quick Install**  
-> Paste this into your terminal to install:
+> 🧪 **Quick Setup**  
+> Paste this command into your terminal:
 >
 > ```bash
 > bash <(curl -L https://raw.githubusercontent.com/monoira/kitty-tabs/refs/heads/main/setup.sh)
