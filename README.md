@@ -28,7 +28,9 @@ instead of like this `#FFFFFF`
 | -------------------------- | -------------------- |
 | `ctrl + t`                 | New Tab              |
 | `ctrl + w`                 | Close Tab            |
-| `alt + {number 1 to 9}`    | Move To Tab {number} |
+| `ctrl + {number 1 to 9}`   | Move To Tab {number} |
+| `shift + right`            | Next Tab             |
+| `shift + left`             | Previous Tab         |
 | `ctrl + shift + alt + t`   | Rename Tab           |
 | `ctrl + shift + page_up`   | Move Tab Backward    |
 | `ctrl + shift + page_down` | Move Tab Forward     |
