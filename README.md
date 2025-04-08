@@ -24,6 +24,8 @@ instead of like this `#FFFFFF`
 
 ## keybindings
 
+### Tab Management
+
 | Keybinding                 | Feature              |
 | -------------------------- | -------------------- |
 | `ctrl + t`                 | New Tab              |
@@ -34,6 +36,19 @@ instead of like this `#FFFFFF`
 | `ctrl + shift + alt + t`   | Rename Tab           |
 | `ctrl + shift + page_up`   | Move Tab Backward    |
 | `ctrl + shift + page_down` | Move Tab Forward     |
+
+### Window/Pane Management (tmux-like)
+
+| Keybinding                 | Feature                      |
+| -------------------------- | ---------------------------- |
+| `ctrl + shift + \`         | Split Window Vertically      |
+| `ctrl + shift + /`         | Split Window Horizontally    |
+| `ctrl + shift + left`      | Navigate to Left Window      |
+| `ctrl + shift + right`     | Navigate to Right Window     |
+| `ctrl + shift + up`        | Navigate to Window Above     |
+| `ctrl + shift + down`      | Navigate to Window Below     |
+| `ctrl + shift + x`         | Close Current Window/Pane    |
+| `ctrl + shift + l`         | Cycle Through Window Layouts |
 
 ## limitations
 
