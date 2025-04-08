@@ -246,9 +246,9 @@ if [[ $install_font =~ ^[Yy]$ ]]; then
     
     echo -e "${CYAN}▶ Downloading Hack Nerd Font...${NC}"
     if command_exists curl; then
-        curl -L -o "$tmp_dir/Hack.zip" "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip"
+        curl -L -o "$tmp_dir/Hack.zip" "https://github.com/ryanoasis/nerd-fonts/releases/latest/download/Hack.zip"
     elif command_exists wget; then
-        wget -O "$tmp_dir/Hack.zip" "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip"
+        wget -O "$tmp_dir/Hack.zip" "https://github.com/ryanoasis/nerd-fonts/releases/latest/download/Hack.zip"
     else
         echo -e "${RED}Neither curl nor wget is installed. Please install one of them.${NC}"
         read -p "Press Enter to continue after manually installing curl or wget, or Ctrl+C to abort..."
