@@ -7,6 +7,7 @@
   - [keybindings](#keybindings)
   - [limitations](#limitations)
   - [dependencies](#dependencies)
+  - [DONATE](#donate)
   <!--toc:end-->
 
 _Kitty_ terminal config.  
