@@ -1,14 +1,11 @@
 # kitty-tabs
 
-<!--toc:start-->
-
 - [kitty-tabs](#kitty-tabs)
   - [showcase](#showcase)
   - [keybindings](#keybindings)
   - [limitations](#limitations)
   - [dependencies](#dependencies)
   - [DONATE](#donate)
-  <!--toc:end-->
 
 _Kitty_ terminal config.  
 Replace _tmux's_ tab functionality with _kitty_'s native tabs with same keybindings as _Firefox_.  
